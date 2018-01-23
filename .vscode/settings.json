@@ -1,0 +1,5 @@
+{
+//    "python.pythonPath": "C:\\Users\\ofl-6\\AppData\\Local\\Programs\\Python\\Python35\\python.exe",
+"python.pythonPath": "C:\\python27\\python.exe",
+    "python.linting.pylintEnabled": false
+}
